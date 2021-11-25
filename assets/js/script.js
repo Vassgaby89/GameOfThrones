@@ -1,4 +1,4 @@
-const url = '../../json/got.json'
+const url = 'https://drive.google.com/file/d/1tYLHzhNzGmwO44ZkbK7GhbKFIPw6Rebi'
 const music = document.getElementById("music");
 music.volume = 0.5;
 let allCharacters = []
