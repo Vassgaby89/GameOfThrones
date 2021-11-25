@@ -1,4 +1,4 @@
-const url = 'https://drive.google.com/file/d/1tYLHzhNzGmwO44ZkbK7GhbKFIPw6Rebi'
+const url = 'https://1drv.ms/u/s!ArH3MKJYqsm0hKIXBgjzbsA3bQeb7g'
 const music = document.getElementById("music");
 music.volume = 0.5;
 let allCharacters = []
